@@ -1,29 +1,33 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
-date:   2025-06-09 22:43:00 +0900
-categories: jekyll update
+layout: default
+title: 김형진의 포트폴리오
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+# 👋 안녕하세요, 김형진입니다.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+## 📌 소개
+풀스택 웹 개발자 (Spring Boot + React)  
+10년 이상의 개발 경험과 3개의 상용 프로젝트 리딩 경험
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+## 🛠 기술 스택
+- Backend: Java, Spring Boot, JPA, MySQL
+- Frontend: JavaScript, React, Next.js
+- DevOps: Docker, GitHub Actions, AWS EC2/S3
+- 협업툴: Jira, Notion, Slack
 
-Jekyll also offers powerful support for code snippets:
+## 📁 주요 프로젝트
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+### 🔷 프로젝트명: AI 기반 고객 응답 요약 시스템
+- 기간: 2024.12 ~ 2025.03
+- 기술: FAISS, Mistral-7B, MLflow, Airflow
+- 설명: 고객 채팅 데이터를 요약하고 자동 분류하는 시스템 구축. LLM fine-tuning 및 추론 서버 최적화
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+### 🔷 프로젝트명: 여행 영어 튜터 웹앱
+- 기간: 2025.01 ~ 2025.04
+- 기술: Flutter Web, Spring Boot, STT, TTS
+- 설명: 실시간 음성 분석 기반 회화 연습 기능 제공
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+## 📞 연락처
+- 이메일: kimhj@example.com
+- 깃허브: [github.com/gudwls215](https://github.com/gudwls215)
+- 블로그: [techlog.com/hyungjin](https://techlog.com/hyungjin)
