@@ -1,30 +1,32 @@
 - layout: left
   name: Backend
   description: | # this will include new lines to allow paragraphs
-    * Java, Groovy, NodeJS (TypeScript),
-    * NestJS, Spring Boot, Spring MVC, Spring Batch, Spring Security, Spring Data JPA/Redis, Spring Cloud AWS
-    * TypeORM, JPA, Querydsl, Hibernate
-    * Jest, Supertest, Junit4/5, Mockito, Spock
-    * Gradle, Maven
-    * IntelliJ, WebStorm, Visual Studio Code
+    * Java, Python
+    * Spring Boot, Spring Framework, Spring Security, JPA, Spring Data JPA, QueryDSL
+    * MyBatis, Hibernate, JDBC
+    * Redis, JWT, OAuth 2.0
+    * FastAPI, RESTful API
+    * Git, GitHub, Git Flow
+    * Maven, Gradle
+
 - layout: left
   name: DevOps
   description: | # this will include new lines to allow paragraphs
-    * MySQL, MariaDB, PostgreSQL
-    * Jenkins, TravisCI, AWS Code Deploy
-    * AWS Beanstalk, AWS SQS, Elastic Cache (Redis), RDS (Aurora), S3, EC2, Cloud Watch
-    * Nginx, Tomcat
-    * Pinpoint, Ngrinder
-    * Linux Centos
+    * Jenkins, Docker, Nginx
+    * 네이버 클라우드 플랫폼 (NCP), Google Cloud Platform (GCP)
+    * GitHub Actions, CI/CD 파이프라인 구축
+    * Linux 서버 운영 (Ubuntu, CentOS)
+    * Ansible, vLLM, Tmux
+    * Cloud Run, GCS, VM, Load Balancer
+    * DB 이중화, 성능 튜닝, 백업 및 복구 전략
+
 - layout: left
   name: Frontend
   description: | # this will include new lines to allow paragraphs
-    * ES6
-    * Npm, Grunt, Webpack
-    * Handlebars, Lodash
-    * Backbone
-
-  
-
-
-
+    * HTML, CSS, JavaScript
+    * React, Next.js
+    * Android Studio (Java 기반)
+    * Chart.js, Tailwind CSS, Styled-components
+    * Axios, React Query
+    * 웹소켓, 반응형 웹 설계
+    * Figma, Notion을 통한 협업 경험
