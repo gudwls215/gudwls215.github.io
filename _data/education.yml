@@ -1,5 +1,5 @@
 - layout: left
-  name: 고전적 SSR 성능 개선 - DEVIEW 2020
+  name: 고전적 SSR 성능 개선 - DEVIEW 2020 
   dates: 2020.11 ~ 2020.11
   link: https://velog.io/@gudwls215/고전적-SSR-성능-개선-DEVIEW-후기
   quote: >
@@ -8,13 +8,13 @@
     * 실제 서비스의 SSR 성능 개선 사례를 통해 실무 적용 가능한 전략을 배우기 위해
     * CSR 구조 일부 도입, JS 번들 분리, HTML 경량화, 미지 Lazy‑load 도입, IntersectionObserver 활용
 - layout: left
-  name: SSR 환경에서의 Micro-Frontend 구현과 퍼포먼스 향상을 위한 캐시 전략 - DEVIEW 2023
+  name: SSR 환경에서의 Micro-Frontend 구현과 캐시 전략 - DEVIEW 2023
   dates: 2023.03 ~ 2023.03
   link: https://velog.io/@gudwls215/SSR-환경에서의-Micro-Frontend-구현과-퍼포먼스-향상을-위한-캐시-전략-DEVIEW-2023
   quote: >
     박찬진(쿠팡)님의 캐시전략과 Micro-Frontend 구현을 위한 세미나
   description: | # this will include new lines to allow paragraphs
-    * 고성능 랜딩 페이지 제공을 위한 캐시 전략 및 최적화 방안을 심도 있게 이해하고, 이를 실제 서비스에 적용하여 사용자 경험을 개선하고자
+    * 랜딩 페이지 제공을 위한 캐시 전략 및 최적화 방안의 필요성을 느껴 참여
     * 캐시 key 구성, 캐시 TTL 설정, 캐시 무효화 전략, 캐시 미스 처리 방법
     * Module Registry, Module Federation과 SSR, Rendering walk-through
 - layout: left

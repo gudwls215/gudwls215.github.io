@@ -1,43 +1,44 @@
 - layout: left
   name: 개인 블로그
-  link: https://jojoldu.tistory.com/
+  link: https://velog.io/@gudwls215
   quote: >
     개인 기술 블로그
   description: | # this will include new lines to allow paragraphs
     * 업무에서 만난 문제, 회사에서 사용해야할 기술, 개인적인 공부가 필요한 부분을 자세히 정리하여 공유하기 위한 블로그
-    * 평일 평균 PV 6,000 ~ 7000, MAU 4.9만, 월 PV 15만
-    * 2016년 부터 꾸준히 작성하고 있으며 현재 누적 PV 430만
+
+# - layout: left
+#   name: spring-batch-querydsl
+#   link: https://github.com/gudwls215/spring-batch-querydsl
+#   quote: >
+#     Querydsl-JPA를 사용할 수 있는 Spring Batch Item Reader
+#   description: | # this will include new lines to allow paragraphs
+#     * 업무에서 사용중인 Querydsl-JPA가 Spring Batch에서 공식지원하지 않아 이를 위한 오픈소스 개발
+#     * 해당 오픈소스 개발 과정은 [사내 기술 블로그에 포스팅](https://woowabros.github.io/experience/2020/02/05/springbatch-querydsl.html)
+
+# - layout: left
+#   name: spring-batch
+#   link: https://github.com/spring-projects/spring-batch/pulls?q=is%3Apr+author%3Agudwls215
+#   quote: >
+#     Spring Batch 오픈소스 PR
+#   description: | # this will include new lines to allow paragraphs
+#     * 커머스 서비스를 운영하면서 Spring Batch에 본격적으로 입문
+#     * 업무 진행하면서 발견된 이슈에 한해서 계속 PR 요청
 
 - layout: left
-  name: spring-batch-querydsl
-  link: https://github.com/jojoldu/spring-batch-querydsl
+  name: llm-english-tutor-chatbot
+  link: https://github.com/[username]/llm-english-tutor-chatbot
   quote: >
-    Querydsl-JPA를 사용할 수 있는 Spring Batch Item Reader
+    AI 기반 영어 학습 통합 플랫폼
   description: | # this will include new lines to allow paragraphs
-    * 업무에서 사용중인 Querydsl-JPA가 Spring Batch에서 공식지원하지 않아 이를 위한 오픈소스 개발
-    * 해당 오픈소스 개발 과정은 [사내 기술 블로그에 포스팅](https://woowabros.github.io/experience/2020/02/05/springbatch-querydsl.html)
-
-- layout: left
-  name: spring-batch
-  link: https://github.com/spring-projects/spring-batch/pulls?q=is%3Apr+author%3Ajojoldu
-  quote: >
-    Spring Batch 오픈소스 PR
-  description: | # this will include new lines to allow paragraphs
-    * 커머스 서비스를 운영하면서 Spring Batch에 본격적으로 입문
-    * 업무 진행하면서 발견된 이슈에 한해서 계속 PR 요청
-
-- layout: left
-  name: subway-app
-  link: https://github.com/gudwls215/subway-app
-  quote: >
-    AWS Mocking용 Spring Boot Starter
-  description: | # this will include new lines to allow paragraphs
-    * 지하철 시간별 혼잡도를 제공하여 편하게 갈 수 있는 루트를 제공하는 앱
-    * 여러 개발자들이 격리화된 AWS 환경에서 개발할 수 있게 지원하는 Mocking 라이브러리
-    * 별도로 <mark>Docker 설치 없이</mark> 프로젝트를 실행할수 있게 <mark>H2와 같은 사용성</mark> 지원
-    * ElasticMQ 등 사용
-    * 오픈 초기에는 사내 여러 팀, 서비스에서도 사용
-    * [AWS Localstack](http://woowabros.github.io/tools/2019/07/18/localstack-integration.html)의 발견으로 확장하지 않을 예정
+    * EXAONE 3.0 및 OpenAI GPT-4 멀티 모델을 활용한 영어 교육 플랫폼
+    * RAG(Retrieval-Augmented Generation)를 통한 맞춤형 학습 콘텐츠 추천 시스템
+    * ChromaDB 벡터 데이터베이스로 강의, 단어, 대화 데이터 저장 및 검색
+    * 실시간 스트리밍 기반 대화형 영어 교육 챗봇 구현
+    * Azure Speech SDK를 활용한 발음 교정 및 피드백 시스템
+    * 영어 레벨 평가(CEFR 기준), 단어 학습, 롤플레이 대화, 퀴즈 생성 등 종합적인 학습 기능
+    * LangChain을 통한 메모리 관리 및 대화 히스토리 유지
+    * 다중 언어 번역(googletrans) 및 HuggingFace Transformers 모델 통합
+    * 사용자별 학습 상태 추적 및 개인화된 코스 추천 엔진
 
 - layout: left
   name: ko-spell-check

@@ -1,47 +1,129 @@
+# - layout: left
+#   company: 인프랩
+#   link: https://www.inflearn.com/
+#   job_title: CTO
+#   dates: 2021.04 ~ 현재
+#   quote: >
+#     회원수 100만, 누적 학습수 3000만건의 에듀테크 서비스
+#   description: | # this will include new lines to allow paragraphs
+#     * 사내 모니터링 & 알람 도입 (APM / CloudWatch & Lambda)
+#     * [신규 서비스 랠릿](https://www.rallit.com/) 전체 아키텍처 및 도메인 모델 설계
+#     * PostgreSQL 성능 튜닝 및 [장애 대응](https://tech.inflab.com/202201-event-postmortem/)
+#     * 개발파트 채용 브랜딩 개선 ([백엔드](https://www.notion.so/inflab/NodeJS-c3df214ebb28423092f6798122156c4d) / [프론트엔드](https://www.notion.so/inflab/React-VanillaJS-9f7029657eaa48ef814c057a1f8b4642))
+#     * 테스트 코드 & 코드리뷰 & 아키텍처 개선 등 개발환경 개선
+# - layout: left
+#   company: 우아한형제들
+#   link: https://www.woowahan.com/
+#   job_title: Java & Spring 백엔드 개발자
+#   dates: 2016.12 ~ 2021.04
+#   quote: >
+#    MAU 1,500만, 일 주문 300만건의 커머스 서비스
+#   description: | # this will include new lines to allow paragraphs
+#      * 대규모 트래픽, 데이터 환경에서의 API/Batch 개발
+#      * 정산, 포인트, 주문 시스템의 레거시 개편
+#      * 업계 최초 일정산, 광고 정산 등 비지니스 지원
+#      * IDC / AWS 환경 모두에서 무중단 배포, 성능 테스트, 운영 시스템 구축
+#      * 2019년 상반기 <mark>우수사원</mark> 수상
+# - layout: left
+#   company: 줌인터넷
+#   link: https://zum.com
+#   job_title: 웹 개발자
+#   dates: 2014.12 ~ 2016.12
+#   quote: >
+#    일일 PV 2000만의 포탈 서비스
+#   description: | # this will include new lines to allow paragraphs
+#      * 포털 메인 페이지, 회원 서비스의 메인 개발자로 개발/운영
+#      * EhCache를 이용한 로컬 캐시, 브라우저 전역 변수를 이용한 클라이언트 캐시등으로 API서버가 죽어도 문제가 없는 메인페이지 구성
+#      * IDC 인프라 환경에서의 개발/운영
+#      * 2016년 본부 추천 <mark>특진</mark> 
+# - layout: left
+#   company: KCC정보통신
+#   job_title: 웹 개발자
+#   dates: 2014.02 ~ 2014.12
+#   quote: >
+#    연매출 1000억의 중견 SI 기업
+#   description: | # this will include new lines to allow paragraphs
+#      * 사내 프로젝트 개발 및 100억원의 SI 프로젝트 참여
+#      * 전자정부 프레임워크, MyBatis, Oracle 환경에서의 개발 경험
 - layout: left
-  company: 인프랩
-  link: https://www.inflearn.com/
-  job_title: CTO
-  dates: 2021.04 ~ 현재
-  quote: >
-    회원수 100만, 누적 학습수 3000만건의 에듀테크 서비스
-  description: | # this will include new lines to allow paragraphs
-    * 사내 모니터링 & 알람 도입 (APM / CloudWatch & Lambda)
-    * [신규 서비스 랠릿](https://www.rallit.com/) 전체 아키텍처 및 도메인 모델 설계
-    * PostgreSQL 성능 튜닝 및 [장애 대응](https://tech.inflab.com/202201-event-postmortem/)
-    * 개발파트 채용 브랜딩 개선 ([백엔드](https://www.notion.so/inflab/NodeJS-c3df214ebb28423092f6798122156c4d) / [프론트엔드](https://www.notion.so/inflab/React-VanillaJS-9f7029657eaa48ef814c057a1f8b4642))
-    * 테스트 코드 & 코드리뷰 & 아키텍처 개선 등 개발환경 개선
-- layout: left
-  company: 우아한형제들
-  link: https://www.woowahan.com/
-  job_title: Java & Spring 백엔드 개발자
-  dates: 2016.12 ~ 2021.04
-  quote: >
-   MAU 1,500만, 일 주문 300만건의 커머스 서비스
-  description: | # this will include new lines to allow paragraphs
-     * 대규모 트래픽, 데이터 환경에서의 API/Batch 개발
-     * 정산, 포인트, 주문 시스템의 레거시 개편
-     * 업계 최초 일정산, 광고 정산 등 비지니스 지원
-     * IDC / AWS 환경 모두에서 무중단 배포, 성능 테스트, 운영 시스템 구축
-     * 2019년 상반기 <mark>우수사원</mark> 수상
-- layout: left
-  company: 줌인터넷
-  link: https://zum.com
+  company: 티티엠소프트
+  link: 
   job_title: 웹 개발자
-  dates: 2014.12 ~ 2016.12
+  dates: 2017.08 ~ 현재
   quote: >
-   일일 PV 2000만의 포탈 서비스
+    회원수 10만, 누적 학습수 130만건의 에듀테크 서비스
   description: | # this will include new lines to allow paragraphs
-     * 포털 메인 페이지, 회원 서비스의 메인 개발자로 개발/운영
-     * EhCache를 이용한 로컬 캐시, 브라우저 전역 변수를 이용한 클라이언트 캐시등으로 API서버가 죽어도 문제가 없는 메인페이지 구성
-     * IDC 인프라 환경에서의 개발/운영
-     * 2016년 본부 추천 <mark>특진</mark> 
+    * AI 기반 영어 학습 플랫폼 개발 (Flutter 프론트엔드 개발, 실시간 통신 시스템 구축)
+    * 실시간 AI 대화 시스템 성능 최적화
+      - SSE 기반 스트리밍 도입으로 응답 속도 70% 개선, 사용자 이탈 감소
+      - 동시 접속자 수 4배 확대
+    * 음성 인식 정확도 및 사용성 개선
+      - Levenshtein 기반 발음 분석 적용으로 STT 정확도 95% 달성
+      - 학습 지속률 증가, API 비용 절감
+    * 개인화 학습 시스템 및 북마크 기능 구현
+      - 핵심 단어 추출 및 맞춤형 복습 시스템으로 콘텐츠 재사용률·완료율 향상
+      - 학습 효율 극대화
+    * 크로스 플랫폼 성능 최적화 및 확장성 구현
+      - Flutter 최적화 아키텍처로 앱 성능 향상, 메모리 절감, 안정성 강화
+      - Android/iOS 동시 지원
+
 - layout: left
-  company: KCC정보통신
-  job_title: 웹 개발자
-  dates: 2014.02 ~ 2014.12
+  job_title: 
+  dates: 2024.12 ~ 2025.05
   quote: >
-   연매출 1000억의 중견 SI 기업
+    OCR 및 자동 문서 요약 시스템 구축
   description: | # this will include new lines to allow paragraphs
-     * 사내 프로젝트 개발 및 100억원의 SI 프로젝트 참여
-     * 전자정부 프레임워크, MyBatis, Oracle 환경에서의 개발 경험  
+    * 이미지 OCR 및 분류 모델 경량화 (MobileNet, TFLite)
+      - 앱 응답시간 40% 단축, 모델 크기 75% 감소
+    * 문서 요약 모델(BERT + Transformer)로 보고서 자동화 시스템 구축
+      - 월 400건 수동 업무 자동화
+
+- layout: left
+  job_title: 
+  dates: 2024.06 ~ 2024.12
+  quote: >
+    AutoCS Flow
+  description: | # this will include new lines to allow paragraphs
+    * LLM 기반 상담 로그 요약 및 고객 요청 자동 분류 시스템 개발
+      - RAG + FAISS + Mistral-7B 활용
+      - 고객 CS 응답시간 24% 단축, 서비스 만족도 향상
+    * MLOps 파이프라인 구축
+      - 모델 실험 추적 (MLflow), 자동 재학습 스케줄링 (Airflow + GitHub Actions)
+
+- layout: left
+  job_title: 
+  dates: 2024.06 ~ 2024.12
+  quote: >
+    규제네비게이터 챗봇 구축
+  description: | # this will include new lines to allow paragraphs
+    * LLM 파인튜닝, AI 추론서버 구축, NEXT.js로 프론트 구축
+    * 정부 규제 데이터를 기반으로 AI 서비스 개발
+      - Hugging Face의 LLM 모델을 규제 데이터 파인튜닝하여 성능 200% 이상 개선
+    * FastAPI와 vLLM 프레임워크를 사용하여 추론 속도 최적화
+      - 15~30초에서 4초로 단축
+    * PDF, text 문서로 실시간 vectorDB 업데이트 가능한 RAG 시스템 구축
+
+- layout: left
+  job_title: 
+  dates: 2018.05 ~ 2024.02
+  quote: >
+    기상청 기상관측 종합관리시스템 운영 및 유지관리
+  description: | # this will include new lines to allow paragraphs
+    * 데이터 파싱, 장애 탐지, 알림 시스템 설계 및 개발
+    * 고성능 쿼리 리팩토링으로 처리 속도를 30초에서 5초로 단축
+    * JavaScript & Chart.js 기반 지도 모니터링 페이지 및 통계 대시보드 개발
+      - 실시간 기상관측 데이터 시각화 및 인터랙티브 지도 구현
+      - 동적 차트 생성 및 데이터 필터링 기능 구현
+    * 실시간 알림톡, SMS 발송 처리 모듈 개발
+    * JavaScript 기반 사용자 권한 및 메뉴 접근 제어 시스템 설계
+      - 동적 메뉴 생성 및 권한별 UI 제어
+      - 클라이언트 사이드 유효성 검증 및 보안 강화
+
+- layout: left
+  job_title: 
+  dates: 2017.11 ~ 2018.03
+  quote: >
+    한방 부동산 어플리케이션 리뉴얼
+  description: | # this will include new lines to allow paragraphs
+    * 아이디어 및 기획 단계 참여
+    * Android Studio 활용하여 검색기능 개발

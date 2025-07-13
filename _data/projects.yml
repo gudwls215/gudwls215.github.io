@@ -2,9 +2,8 @@
   name: 개발 파트 매니징
   link: 
   quote: >
-    2018.04.01 ~ 현재
+    2017.08.01 ~ 현재
   description: | # this will include new lines to allow paragraphs
-    * 비사이드 CTO (2023.10 ~ 현재)
     * 신규 아카이빙 서비스(Backend) 프로젝트 전체 리드 (2023.10 ~ 2024.10)
     * 티티엠소프트 규제 챗봇 시스템 설계 및 개발 파트 리드 (2024.06 ~ 2024.12)
     * 실시간 대시보드/알림 시스템 개발 리드 (2018.05 ~ 2024.02)
@@ -26,7 +25,7 @@
   quote: >
   description: | # this will include new lines to allow paragraphs
     * PostgreSQL 성능 튜닝 및 슬로우 쿼리 분석
-    * 일일 수십만 트래픽 데이터 처리용 배치 시스템 설계 및 운영
+    * 일일 수만 트래픽 데이터 처리용 배치 시스템 설계 및 운영
     * 비동기 메시지 큐 기반 알림 시스템 개발 (Email/SMS/알림톡)
     * 고성능 쿼리 리팩토링 (예: 30초 → 5초로 단축)
     * JPA, Querydsl 기반 쿼리 구조 개선
@@ -40,7 +39,7 @@
     * MySQL 스키마 설계, Index 최적화
     * 도메인 모델 기반의 API 및 Batch 설계
     * 테스트 코드 커버리지 60% 이상 유지
-    * TestCode 2500개 이상 작성
+    * TestCode 500개 이상 작성
 
 - layout: top-middle
   name: IDC 및 AWS 클라우드 인프라 운영 관리
@@ -52,3 +51,13 @@
     * Jenkins, GitHub 연동 CI/CD 구성
     * Docker 기반 로컬 및 운영 환경 분리
     * Ansible을 활용한 서버 자동화
+
+- layout: top-middle
+  name: AI 기반 영어 학습 플랫폼 개발 및 성능 최적화
+  link:
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    * 실시간 AI 대화 시스템 성능 최적화
+    * 음성 인식 정확도 및 사용성 개선
+    * 개인화 학습 시스템 및 북마크 기능 구현
+    * 크로스 플랫폼 성능 최적화 및 확장성 구현
