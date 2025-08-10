@@ -1,3 +1,4 @@
+
 # - layout: left
 #   company: 인프랩
 #   link: https://www.inflearn.com/
@@ -45,13 +46,15 @@
 #   description: | # this will include new lines to allow paragraphs
 #      * 사내 프로젝트 개발 및 100억원의 SI 프로젝트 참여
 #      * 전자정부 프레임워크, MyBatis, Oracle 환경에서의 개발 경험
+
+
 - layout: left
   company: 티티엠소프트
   link: 
   job_title: 웹 개발자
   dates: 2017.08 ~ 현재
   quote: >
-    회원수 10만, 누적 학습수 130만건의 에듀테크 서비스
+    에듀테크 서비스
   description: | # this will include new lines to allow paragraphs
     * AI 기반 영어 학습 플랫폼 개발 (Flutter 프론트엔드 개발, 실시간 통신 시스템 구축)
     * 실시간 AI 대화 시스템 성능 최적화
@@ -66,6 +69,25 @@
     * 크로스 플랫폼 성능 최적화 및 확장성 구현
       - Flutter 최적화 아키텍처로 앱 성능 향상, 메모리 절감, 안정성 강화
       - Android/iOS 동시 지원
+
+- layout: left
+  link: pdf.glotos.com
+  job_title: 
+  dates: 2025.06 ~ 2025.07
+  quote: >
+    PDF 피드백 플랫폼 - WebRTC 실시간 스트리밍 & 화이트보드
+  description: | # this will include new lines to allow paragraphs
+    * WebRTC P2P 연결을 통한 초저지연 화면 공유 플랫폼 개발
+      - 100-500ms 지연시간 달성 (기존 대비 90% 단축)
+      - 1920x1080@60fps, 8Mbps 스트리밍 + VP9 코덱 4K 녹화 지원
+    * 실시간 협업 화이트보드 시스템 구현
+      - Canvas ImageData 압축과 히스토리 관리 최적화로 85% 응답속도 향상
+      - Fabric.js 기반 무제한 Undo/Redo 기능 구현
+    * 연결 안정성 및 성능 최적화
+      - STUN/TURN 서버 구성과 ICE candidate 최적화로 98% 연결 성공률 확보
+      - MediaStream 라이프사이클 자동화로 70% 메모리 사용량 감소
+    * 크로스 브라우저 호환성 95%+ 달성, 무제한 동시접속자 지원
+    * **기술스택**: Next.js 15, TypeScript, WebRTC, Socket.IO, RecordRTC, PDF.js
 
 - layout: left
   job_title: 
@@ -91,6 +113,7 @@
       - 모델 실험 추적 (MLflow), 자동 재학습 스케줄링 (Airflow + GitHub Actions)
 
 - layout: left
+  link: http://regnavigator.com/
   job_title: 
   dates: 2024.06 ~ 2024.12
   quote: >
