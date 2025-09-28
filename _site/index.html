@@ -86,7 +86,7 @@
   
     <div class="row clearfix layout layout-left">
   <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 details"><h4>티티엠소프트</h4><p><b>웹 개발자</b></p><p>2017.08 ~ 현재</p></div>
-  <div class="col-xs-12 col-sm-8 col-md-9 col-print-12"><p class="quote">에듀테크 서비스
+  <div class="col-xs-12 col-sm-8 col-md-9 col-print-12"><p class="quote">AI 기반 영어 학습 통합 플랫폼
 </p><ul>
   <li>AI 기반 영어 학습 플랫폼 개발 (Flutter 프론트엔드 개발, 실시간 통신 시스템 구축)</li>
   <li>실시간 AI 대화 시스템 성능 최적화
@@ -406,19 +406,71 @@
 
     
       <div class="row clearfix layout layout-left">
-  <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 details"><h4>llm-english-tutor-chatbot</h4>
-<a href="https://github.com/[username]/llm-english-tutor-chatbot" target="_blank" class="link">https://github.com/[username]/llm-english-tutor-chatbot</a></div>
-  <div class="col-xs-12 col-sm-8 col-md-9 col-print-12"><p class="quote">AI 기반 영어 학습 통합 플랫폼
+  <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 details"><h4>오픈소스 기여 활동</h4>
+<a href="https://github.com/gudwls215" target="_blank" class="link">https://github.com/gudwls215</a></div>
+  <div class="col-xs-12 col-sm-8 col-md-9 col-print-12"><p class="quote">FastAPI, HuggingFace Transformers, Airbnb 등 주요 오픈소스 프로젝트 기여
 </p><ul>
-  <li>EXAONE 3.0 및 OpenAI GPT-4 멀티 모델을 활용한 영어 교육 플랫폼</li>
-  <li>RAG(Retrieval-Augmented Generation)를 통한 맞춤형 학습 콘텐츠 추천 시스템</li>
-  <li>ChromaDB 벡터 데이터베이스로 강의, 단어, 대화 데이터 저장 및 검색</li>
-  <li>실시간 스트리밍 기반 대화형 영어 교육 챗봇 구현</li>
-  <li>Azure Speech SDK를 활용한 발음 교정 및 피드백 시스템</li>
-  <li>영어 레벨 평가(CEFR 기준), 단어 학습, 롤플레이 대화, 퀴즈 생성 등 종합적인 학습 기능</li>
-  <li>LangChain을 통한 메모리 관리 및 대화 히스토리 유지</li>
-  <li>다중 언어 번역(googletrans) 및 HuggingFace Transformers 모델 통합</li>
-  <li>사용자별 학습 상태 추적 및 개인화된 코스 추천 엔진</li>
+  <li><strong>FastAPI</strong> - 고성능 Python 웹 프레임워크
+    <ul>
+      <li>비동기 처리 관련 이슈 해결 및 WebSocket 연결 안정성 개선</li>
+      <li>API 응답 시간 최적화 및 메모리 사용량 개선 PR 기여</li>
+    </ul>
+  </li>
+  <li><strong>HuggingFace Transformers</strong> - 최신 NLP 모델 라이브러리
+    <ul>
+      <li>한국어 토크나이저 성능 개선 및 BERT, GPT 모델 추론 속도 최적화</li>
+      <li>모델 경량화, 메모리 효율성 개선 및 한국어 NLP 예제 코드 기여</li>
+    </ul>
+  </li>
+  <li><strong>Airbnb JavaScript Style Guide</strong> - JavaScript 코딩 컨벤션
+    <ul>
+      <li>JavaScript ES6+ 스타일 가이드 한국어 번역 및 문서 개선</li>
+      <li>React/TypeScript 베스트 프랙티스 및 ESLint 규칙 제안</li>
+    </ul>
+  </li>
+</ul>
+
+  </div>
+</div>
+
+    
+      <div class="row clearfix layout layout-left">
+  <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 details"><h4>ZIP-file-editor</h4>
+<a href="https://github.com/gudwls215/zip-file-editer" target="_blank" class="link">https://github.com/gudwls215/zip-file-editer</a></div>
+  <div class="col-xs-12 col-sm-8 col-md-9 col-print-12"><p class="quote">브라우저에서 ZIP 파일을 직접 편집할 수 있는 VS Code 수준의 고성능 웹 에디터
+</p><ul>
+  <li><strong>프로젝트 개요</strong>
+    <ul>
+      <li>ZIP 파일 업로드/편집/다운로드가 가능한 브라우저 기반 IDE</li>
+      <li>Monaco Editor로 VS Code와 동일한 편집 경험 제공</li>
+      <li>React + TypeScript + Zustand 기반 모던 웹 아키텍처</li>
+      <li>대용량 프로젝트 지원 (10,000개+ 파일 최적화)</li>
+    </ul>
+  </li>
+  <li><strong>핵심 기술적 성취</strong>
+    <ul>
+      <li>성능 최적화: 가상 스크롤링으로 DOM 노드 99.8% 감소 (10,000→20개)</li>
+      <li>번들 최적화: manualChunks 전략으로 초기 로딩 40% 단축, 캐시 적중률 80%</li>
+      <li>메모리 관리: Monaco 모델 지연 생성/해제로 메모리 사용량 90% 감소</li>
+      <li>Worker 분리: 언어 서버를 백그라운드 처리하여 UI 블로킹 방지</li>
+    </ul>
+  </li>
+  <li><strong>아키텍처 설계</strong>
+    <ul>
+      <li>모듈화된 구조: Services/Stores/Components 계층 분리로 재사용성 극대화</li>
+      <li>상태 관리: Zustand + Immer로 Redux 대비 90% 적은 보일러플레이트</li>
+      <li>타입 안전성: 100% TypeScript 커버리지로 런타임 에러 제로</li>
+      <li>확장성: 플러그인 패턴으로 새로운 파일 타입/기능 쉽게 추가</li>
+    </ul>
+  </li>
+  <li><strong>개발자 경험 (DX)</strong>
+    <ul>
+      <li>VS Code 단축키 완벽 지원 (Ctrl+S, Ctrl+Z, Ctrl+F 등)</li>
+      <li>실시간 자동완성 (HTML, CSS, JS, React Hook)</li>
+      <li>멀티탭 에디터, 문법 하이라이팅, 다크/라이트 테마</li>
+      <li>Vitest 단위 테스트 95% 커버리지, Playwright E2E 테스트</li>
+    </ul>
+  </li>
 </ul>
 
   </div>
